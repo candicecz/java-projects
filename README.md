@@ -1,2 +1,2 @@
-# java_projects
+# java-projects
 Small projects used to learn java
